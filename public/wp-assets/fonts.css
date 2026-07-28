@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -13,7 +13,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -22,7 +22,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -31,7 +31,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -40,7 +40,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -49,7 +49,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -58,7 +58,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -67,7 +67,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -76,7 +76,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -85,7 +85,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -94,7 +94,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -103,7 +103,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -112,7 +112,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -121,7 +121,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -130,7 +130,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -139,7 +139,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -148,7 +148,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -157,7 +157,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -166,7 +166,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -175,7 +175,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -184,7 +184,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -193,7 +193,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -202,7 +202,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -211,7 +211,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -220,7 +220,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -229,7 +229,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -238,7 +238,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -247,7 +247,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -256,7 +256,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -265,7 +265,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -274,7 +274,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -283,7 +283,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -292,7 +292,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -301,7 +301,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -310,7 +310,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -319,7 +319,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -328,7 +328,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -337,7 +337,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -346,7 +346,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -355,7 +355,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -364,7 +364,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -373,7 +373,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -382,7 +382,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -391,7 +391,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -400,7 +400,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -409,7 +409,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -418,7 +418,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -427,7 +427,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -436,7 +436,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -445,7 +445,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7SUc.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -454,7 +454,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -463,7 +463,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -472,7 +472,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7SUc.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -481,7 +481,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7SUc.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -490,7 +490,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7SUc.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -499,7 +499,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
+  src: url(/wp-assets/fonts/inter/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -508,7 +508,7 @@
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -517,7 +517,7 @@
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -526,7 +526,7 @@
   font-style: italic;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -535,7 +535,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -544,7 +544,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -553,7 +553,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -562,7 +562,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -571,7 +571,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -580,7 +580,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -589,7 +589,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -598,7 +598,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -607,7 +607,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -616,7 +616,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -625,7 +625,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -634,7 +634,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -643,7 +643,7 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -652,7 +652,7 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -661,7 +661,7 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -670,7 +670,7 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -679,7 +679,7 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -688,7 +688,7 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -697,7 +697,7 @@
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt5D4hTxM.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -706,7 +706,7 @@
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt7j4hTxM.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -715,7 +715,7 @@
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zUtBhPNqw73oHt4D4h.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -724,7 +724,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -733,7 +733,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -742,7 +742,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -751,7 +751,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -760,7 +760,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -769,7 +769,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -778,7 +778,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -787,7 +787,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -796,7 +796,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -805,7 +805,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -814,7 +814,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -823,7 +823,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -832,7 +832,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -841,7 +841,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -850,7 +850,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -859,7 +859,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -868,7 +868,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -877,7 +877,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -886,7 +886,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -895,7 +895,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -904,7 +904,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic */
@@ -913,7 +913,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oDd4iYl.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* latin-ext */
@@ -922,7 +922,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73ord4iYl.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -931,7 +931,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
+  src: url(/wp-assets/fonts/jost/92zatBhPNqw73oTd4g.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -940,7 +940,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -949,7 +949,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -958,7 +958,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -967,7 +967,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -976,7 +976,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -985,7 +985,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -994,7 +994,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1003,7 +1003,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1012,7 +1012,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1021,7 +1021,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1030,7 +1030,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1039,7 +1039,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1048,7 +1048,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1057,7 +1057,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1066,7 +1066,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1075,7 +1075,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1084,7 +1084,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1093,7 +1093,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1102,7 +1102,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1111,7 +1111,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1120,7 +1120,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1129,7 +1129,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1138,7 +1138,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1147,7 +1147,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1156,7 +1156,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1165,7 +1165,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1174,7 +1174,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1183,7 +1183,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1192,7 +1192,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1201,7 +1201,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1210,7 +1210,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1219,7 +1219,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1228,7 +1228,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1237,7 +1237,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1246,7 +1246,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1255,7 +1255,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1264,7 +1264,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1273,7 +1273,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1282,7 +1282,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1291,7 +1291,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1300,7 +1300,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1309,7 +1309,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1318,7 +1318,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1327,7 +1327,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1336,7 +1336,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1345,7 +1345,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1354,7 +1354,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1363,7 +1363,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1372,7 +1372,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1381,7 +1381,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1390,7 +1390,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1399,7 +1399,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1408,7 +1408,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1417,7 +1417,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1426,7 +1426,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1435,7 +1435,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1444,7 +1444,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1453,7 +1453,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1462,7 +1462,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1471,7 +1471,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/montserrat/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1480,7 +1480,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1489,7 +1489,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1498,7 +1498,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1507,7 +1507,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1516,7 +1516,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1525,7 +1525,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1534,7 +1534,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1543,7 +1543,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1552,7 +1552,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1561,7 +1561,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1570,7 +1570,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1579,7 +1579,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1588,7 +1588,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1597,7 +1597,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1606,7 +1606,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1615,7 +1615,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1624,7 +1624,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1633,7 +1633,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1642,7 +1642,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1651,7 +1651,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -1660,7 +1660,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -1669,7 +1669,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* vietnamese */
@@ -1678,7 +1678,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -1687,7 +1687,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1696,7 +1696,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
+  src: url(/wp-assets/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1705,7 +1705,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1714,7 +1714,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1723,7 +1723,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1732,7 +1732,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1741,7 +1741,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1750,7 +1750,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1759,7 +1759,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1768,7 +1768,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1777,7 +1777,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1786,7 +1786,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1795,7 +1795,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1804,7 +1804,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1813,7 +1813,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1822,7 +1822,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* latin-ext */
@@ -1831,7 +1831,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJuktqQ4E.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1840,7 +1840,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
+  src: url(/wp-assets/fonts/outfit/QGYvz_MVcBeNP4NJtEtq.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -1849,7 +1849,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiGyp8kv8JHgFVrJJLucXtAKPY.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -1858,7 +1858,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1867,7 +1867,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLucHtA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiGyp8kv8JHgFVrJJLucHtA.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -1876,7 +1876,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVFteOcEg.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -1885,7 +1885,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1894,7 +1894,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -1903,7 +1903,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VFteOcEg.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -1912,7 +1912,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1921,7 +1921,7 @@
   font-style: italic;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -1930,7 +1930,7 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VFteOcEg.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -1939,7 +1939,7 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1948,7 +1948,7 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -1957,7 +1957,7 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VFteOcEg.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -1966,7 +1966,7 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -1975,7 +1975,7 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -1984,7 +1984,7 @@
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVFteOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVFteOcEg.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -1993,7 +1993,7 @@
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2002,7 +2002,7 @@
   font-style: italic;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2011,7 +2011,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2020,7 +2020,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2029,7 +2029,7 @@
   font-style: normal;
   font-weight: 200;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2038,7 +2038,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2047,7 +2047,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2056,7 +2056,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2065,7 +2065,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2074,7 +2074,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2083,7 +2083,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2092,7 +2092,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2101,7 +2101,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2110,7 +2110,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2119,7 +2119,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2128,7 +2128,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2137,7 +2137,7 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2146,7 +2146,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2155,7 +2155,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2164,7 +2164,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2173,7 +2173,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2182,7 +2182,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2191,7 +2191,7 @@
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* devanagari */
@@ -2200,7 +2200,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z11lFc-K.woff2) format('woff2');
   unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
 }
 /* latin-ext */
@@ -2209,7 +2209,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2218,7 +2218,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2227,7 +2227,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2236,7 +2236,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2245,7 +2245,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2254,7 +2254,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2263,7 +2263,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2272,7 +2272,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2281,7 +2281,7 @@
   font-style: italic;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2290,7 +2290,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2299,7 +2299,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2308,7 +2308,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2317,7 +2317,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2326,7 +2326,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2335,7 +2335,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2344,7 +2344,7 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2353,7 +2353,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2362,7 +2362,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2371,7 +2371,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2380,7 +2380,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2389,7 +2389,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2398,7 +2398,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2407,7 +2407,7 @@
   font-style: italic;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2416,7 +2416,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2425,7 +2425,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2434,7 +2434,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2443,7 +2443,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2452,7 +2452,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2461,7 +2461,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2470,7 +2470,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2479,7 +2479,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2488,7 +2488,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2497,7 +2497,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2506,7 +2506,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2515,7 +2515,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2524,7 +2524,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2533,7 +2533,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2542,7 +2542,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2551,7 +2551,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2560,7 +2560,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2569,7 +2569,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2578,7 +2578,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2587,7 +2587,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2596,7 +2596,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2605,7 +2605,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2614,7 +2614,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2623,7 +2623,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2632,7 +2632,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2641,7 +2641,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2650,7 +2650,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2659,7 +2659,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 /* cyrillic-ext */
@@ -2668,7 +2668,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2) format('woff2');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
 /* cyrillic */
@@ -2677,7 +2677,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2) format('woff2');
   unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 /* greek-ext */
@@ -2686,7 +2686,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2) format('woff2');
   unicode-range: U+1F00-1FFF;
 }
 /* greek */
@@ -2695,7 +2695,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
 /* vietnamese */
@@ -2704,7 +2704,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2) format('woff2');
   unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
 }
 /* latin-ext */
@@ -2713,7 +2713,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2) format('woff2');
   unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 /* latin */
@@ -2722,6 +2722,6 @@
   font-style: normal;
   font-weight: 900;
   font-display: swap;
-  src: url(https://kelseywaldrop.com/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
+  src: url(/wp-assets/fonts/roboto/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
