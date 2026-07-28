@@ -1,0 +1,8 @@
+/* Minimal resets — do not use Tailwind preflight here (breaks WP block layout). */
+.wp-site-blocks > * + * {
+  margin-block-start: 0 !important;
+}
+
+body {
+  margin: 0;
+}
