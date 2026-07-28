@@ -21,25 +21,6 @@ export type NavItem =
 export const mainNav: NavItem[] = [
   { label: "Home", href: "/" },
   { label: "Contact", href: "/contact-us" },
-  {
-    label: "Resources",
-    children: [
-      { label: "Podcast", href: "/podcasts" },
-      { label: "Resources", href: "/client-resources" },
-    ],
-  },
-  {
-    label: "Services",
-    children: [
-      { label: "Group Coaching", href: "/group-coaching" },
-      {
-        label: "Career Strategy & Coaching",
-        href: "/individual-services",
-      },
-      { label: "Career Services", href: "/career-services" },
-      { label: "Signature Service", href: "/services-signature" },
-    ],
-  },
   { label: "Testimonials", href: "/testimonials" },
 ];
 

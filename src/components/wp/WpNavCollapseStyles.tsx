@@ -30,7 +30,7 @@ export function WpNavCollapseStyles() {
     max-width: 400px !important;
     height: 100% !important;
     z-index: 100000 !important;
-    background: #fff !important;
+    background: var(--kw-white) !important;
     overflow-y: auto !important;
     visibility: visible !important;
     transform: translateX(0) !important;

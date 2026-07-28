@@ -138,7 +138,7 @@ h2.has-link-color.has-text-color.has-purple-color.nfd-text-balance.wp-block-post
 
 /** text link hover color wtf **/
 a:hover {
-    color: #ff2768;
+    color: var(--kw-link-hover);
 }
 
 /** FORM STUFF FOR TUV LUV **/

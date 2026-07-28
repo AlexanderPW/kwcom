@@ -1,0 +1,14 @@
+@import "tailwindcss/theme" layer(theme);
+@import "tailwindcss/utilities" layer(utilities);
+
+@theme {
+  --color-kw-pink: var(--kw-pink);
+  --color-kw-primary: var(--kw-primary);
+  --color-kw-button: var(--kw-button);
+  --color-kw-button-hover: var(--kw-button-hover);
+
+  /* Brand fonts (loaded globally via WP stylesheets in the root layout). */
+  --font-heading: var(--wp--preset--font-family--montserrat), sans-serif;
+  --font-accent: var(--wp--preset--font-family--outfit), sans-serif;
+  --font-body: var(--wp--preset--font-family--inter), sans-serif;
+}

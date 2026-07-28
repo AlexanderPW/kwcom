@@ -1,6 +1,6 @@
 const WP_STYLES = [
-  "/wp-assets/fonts.css",
   "/wp-assets/gutenify-style.css",
+  "/wp-assets/fonts.css",
   "/wp-assets/font-awesome.min.css",
   "/wp-assets/animate.css",
   "/wp-assets/navigation-block.css",

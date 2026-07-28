@@ -1,0 +1,30 @@
+/**
+ * Home hero only — first black band (.has-foreground-background-color).
+ * wp-inline.css sets :root :where(.wp-block-heading) { font-weight: 600 } globally,
+ * which makes hero headings too heavy. Override back to 400 here, scoped to hero only.
+ */
+.wp-block-post-content
+  > .wp-block-group.has-foreground-background-color
+  h1.cover-text.wp-block-heading {
+  font-weight: 400 !important;
+}
+
+.wp-block-post-content
+  > .wp-block-group.has-foreground-background-color
+  h1.cover-text.has-montserrat-font-family {
+  font-family: var(--wp--preset--font-family--montserrat) !important;
+}
+
+.wp-block-post-content
+  > .wp-block-group.has-foreground-background-color
+  h1.cover-text.has-intro-font-font-family {
+  font-family: var(--wp--preset--font-family--outfit) !important;
+}
+
+.wp-block-post-content
+  > .wp-block-group.has-foreground-background-color
+  .wp-block-button.has-montserrat-font-family
+  .wp-block-button__link {
+  font-family: var(--wp--preset--font-family--montserrat) !important;
+  font-weight: 500 !important;
+}

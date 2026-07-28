@@ -1,0 +1,48 @@
+/**
+ * Brand tokens — use var(--kw-*) in HTML inline styles, WP content, and app CSS.
+ * Tailwind lives in shell.css (placeholder pages only), not here.
+ */
+:root {
+  --kw-pink: #ff2768;
+  --kw-pink-band: #ff2667;
+  --kw-maroon: #7c0e38;
+  --kw-purple: #c74a73;
+
+  --kw-white: #ffffff;
+  --kw-black: #000000;
+
+  --kw-gray-body: #717171;
+  --kw-gray-boulder: #777777;
+  --kw-gray-muted: #abb8c3;
+  --kw-gray-duotone: #797979;
+  --kw-gray-secondary: #e7e7e7;
+  --kw-gray-dark: #191919;
+  --kw-gray-footer: #121010;
+  --kw-gray-footer-bar: #1d1b1b;
+  --kw-border: #f2f2f2;
+
+  --kw-cta: var(--kw-pink);
+  --kw-link-hover: var(--kw-pink);
+  --kw-heading-accent: var(--kw-maroon);
+
+  --kw-primary: var(--kw-maroon);
+  --kw-button: var(--kw-pink);
+  --kw-button-hover: var(--kw-maroon);
+}
+
+:root {
+  --wp--preset--color--pink: var(--kw-pink);
+  --wp--preset--color--purple: var(--kw-purple);
+  --wp--preset--color--body-text: var(--kw-gray-body);
+  --wp--preset--color--boulder: var(--kw-gray-boulder);
+  --wp--preset--color--cyan-bluish-gray: var(--kw-gray-muted);
+  --wp--preset--color--secondary-two: var(--kw-gray-dark);
+  --wp--preset--color--background-secondary: var(--kw-gray-secondary);
+  --wp--preset--color--footer-column-background: var(--kw-gray-footer);
+  --wp--preset--color--footer-copy-right-background: var(--kw-gray-footer-bar);
+  --wp--preset--color--border: var(--kw-border);
+}
+
+a:hover {
+  color: var(--kw-link-hover);
+}
