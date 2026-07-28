@@ -1,21 +1,20 @@
 import {
   WordPressHtml,
   getWpFooterHtml,
-  getWpHeaderHtml,
   getWpHomeMainHtml,
 } from "@/components/wp/WordPressHtml";
 import { WpAnimateEnhancer } from "@/components/wp/WpAnimateEnhancer";
 import { WpDuotoneFilters } from "@/components/wp/WpDuotoneFilters";
-import { WpNavigationEnhancer } from "@/components/wp/WpNavigationEnhancer";
+import { Header } from "@/components/layout/Header";
 
 export function WpHomePage() {
   return (
     <>
+      <Header />
+
       <WpDuotoneFilters />
       <WpAnimateEnhancer />
-      <WpNavigationEnhancer />
       <div className="wp-site-blocks">
-        <WordPressHtml html={getWpHeaderHtml()} />
         <WordPressHtml html={getWpHomeMainHtml()} />
         <WordPressHtml html={getWpFooterHtml()} />
       </div>

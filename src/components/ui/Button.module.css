@@ -1,0 +1,71 @@
+/* Self-contained button styles. Unlayered class selectors intentionally beat
+   the global WordPress base rules so no stray borders / shadows leak in. */
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-family: var(--wp--preset--font-family--inter), sans-serif;
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0.75rem 2rem;
+  border: 0;
+  border-radius: 9999px;
+  box-shadow: none;
+  transition: background-color 0.18s ease, color 0.18s ease;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+  box-shadow: none;
+  outline: none;
+  border: 0;
+}
+
+.button:focus-visible {
+  outline: 2px solid var(--kw-pink);
+  outline-offset: 2px;
+}
+
+/* Primary — brand pink fill, darkens to maroon on hover. */
+.primary {
+  background: var(--kw-button);
+  color: var(--kw-white);
+}
+
+.primary:hover {
+  background: var(--kw-button-hover);
+  color: var(--kw-white);
+}
+
+/* Grey — neutral grey fill for use on light surfaces. */
+.grey {
+  background: var(--kw-gray-boulder);
+  color: var(--kw-white);
+}
+
+.grey:hover {
+  background: #5a5a5a;
+  color: var(--kw-white);
+}
+
+/* Light — white fill for use on colored / dark surfaces. */
+.light {
+  background: var(--kw-white);
+  color: var(--kw-maroon);
+}
+
+.light:hover {
+  background: var(--kw-gray-secondary);
+  color: var(--kw-maroon);
+}

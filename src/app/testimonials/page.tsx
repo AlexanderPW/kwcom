@@ -4,11 +4,10 @@ import Link from "next/link";
 import {
   WordPressHtml,
   getWpFooterHtml,
-  getWpHeaderHtml,
 } from "@/components/wp/WordPressHtml";
 import { WpAnimateEnhancer } from "@/components/wp/WpAnimateEnhancer";
 import { WpDuotoneFilters } from "@/components/wp/WpDuotoneFilters";
-import { WpNavigationEnhancer } from "@/components/wp/WpNavigationEnhancer";
+import { Header } from "@/components/layout/Header";
 import { site } from "@/config/site";
 import "@/styles/shell.css";
 
@@ -51,6 +50,8 @@ const testimonials: Testimonial[] = [
     headline: "Kelsey was my strongest advocate and guide",
     quote:
       "She was an invaluable confidant and coach, playing a pivotal role in my transition into a new role and helping me decode and tackle the myriad challenges across a new company. Her insightful guidance and strategic acumen were instrumental in overcoming complexities, expanding my network, and achieving significant success right out of the gate.",
+    image:
+      "https://i0.wp.com/kelseywaldrop.com/wp-content/uploads/2023/11/craig-edited.jpg?resize=827%2C827&ssl=1",
   },
 ];
 
@@ -131,60 +132,45 @@ function TestimonialCard({ t }: { t: Testimonial }) {
 export default function Page() {
   return (
     <>
+      <Header />
       <WpDuotoneFilters />
       <WpAnimateEnhancer />
-      <WpNavigationEnhancer />
       <div className="wp-site-blocks">
-        <WordPressHtml html={getWpHeaderHtml()} />
-
         <main className="bg-white font-body text-neutral-900">
           {/* Hero */}
         <section className="relative overflow-hidden bg-neutral-950 text-white">
           <div
             aria-hidden
-            className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-kw-pink/20 blur-3xl"
+            className="pointer-events-none absolute -right-32 -top-32 h-80 w-80 rounded-full bg-kw-pink/20 blur-3xl"
           />
           <div
             aria-hidden
-            className="pointer-events-none absolute -bottom-24 -left-24 h-72 w-72 rounded-full bg-kw-primary/30 blur-3xl"
+            className="pointer-events-none absolute -bottom-32 -left-32 h-80 w-80 rounded-full bg-kw-primary/25 blur-3xl"
           />
-          <div className="relative mx-auto grid max-w-6xl items-center gap-10 px-4 py-16 md:grid-cols-2 md:py-20">
-            <div className="text-center md:text-left">
-              <span className="mx-auto mb-6 block h-px w-16 bg-kw-pink md:mx-0" />
-              <h1
-                className="font-heading uppercase"
-                style={{
-                  color: "#fff",
-                  fontWeight: 400,
-                  letterSpacing: "-0.02em",
-                  lineHeight: 1.1,
-                  fontSize: "clamp(2.5rem, 5vw, 3.5rem)",
-                }}
-              >
-                Testimonials
-              </h1>
-              <p className="mx-auto mt-5 max-w-xl font-accent text-lg leading-relaxed text-white/80 md:mx-0">
-                Real clients share what their experience is like working with me
-                as a Career and Leadership Coach.
-              </p>
-            </div>
-
-            <div className="relative mx-auto w-full max-w-xs sm:max-w-sm">
-              <span
-                aria-hidden
-                className="absolute -right-4 -top-4 h-full w-full rounded-2xl border-2 border-kw-pink/60"
-              />
-              <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-2xl ring-1 ring-white/10">
-                <Image
-                  src="https://i0.wp.com/kelseywaldrop.com/wp-content/uploads/2023/09/Kelsey-Waldrop-212-scaled.jpg?resize=683%2C1024&ssl=1"
-                  alt="Kelsey Waldrop"
-                  fill
-                  priority
-                  sizes="(max-width: 768px) 80vw, 400px"
-                  className="object-cover object-top"
-                />
-              </div>
-            </div>
+          <div className="relative mx-auto flex max-w-3xl flex-col items-center px-4 py-20 text-center md:py-28">
+            <span className="mb-6 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-4 py-1.5 font-accent text-xs font-medium uppercase tracking-[0.2em] text-white/70">
+              Client Stories
+            </span>
+            <h1
+              className="font-heading uppercase"
+              style={{
+                color: "#fff",
+                fontWeight: 400,
+                letterSpacing: "-0.02em",
+                lineHeight: 1.1,
+                fontSize: "clamp(2.75rem, 6vw, 4rem)",
+              }}
+            >
+              Testimonials
+            </h1>
+            <span
+              aria-hidden
+              className="mt-6 block h-px w-20 bg-gradient-to-r from-transparent via-kw-pink to-transparent"
+            />
+            <p className="mx-auto mt-6 max-w-xl font-accent text-lg leading-relaxed text-white/75">
+              Real clients share what their experience is like working with me
+              as a Career and Leadership Coach.
+            </p>
           </div>
         </section>
 

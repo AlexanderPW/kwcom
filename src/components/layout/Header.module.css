@@ -1,0 +1,202 @@
+/* Self-contained header styles. Class selectors (unlayered) intentionally beat
+   the global WordPress base element rules (e.g. `a { color:#000; underline }`). */
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--kw-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+}
+
+/* Top bar ---------------------------------------------------------------- */
+.topbar {
+  background: var(--kw-pink);
+  min-height: 35px;
+}
+
+.topbarInner {
+  max-width: 1320px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.44rem 2.25rem;
+}
+
+.email {
+  color: var(--kw-white);
+  font-family: var(--wp--preset--font-family--inter), sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 0 0.44rem;
+}
+
+.email:hover {
+  text-decoration: underline;
+}
+
+.socials {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  margin: 0;
+  padding: 3px 0 0;
+  list-style: none;
+}
+
+.socials li {
+  display: flex;
+}
+
+.socials a {
+  color: var(--kw-white);
+  display: inline-flex;
+  align-items: center;
+  transition: opacity 0.2s;
+}
+
+.socials a:hover {
+  opacity: 0.8;
+}
+
+.socials svg {
+  width: 19px;
+  height: 19px;
+  fill: currentColor;
+}
+
+/* Main bar --------------------------------------------------------------- */
+.mainInner {
+  max-width: 1320px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem 1.5rem;
+}
+
+.logoLink {
+  display: block;
+  flex-shrink: 0;
+  line-height: 0;
+}
+
+.logo {
+  display: block;
+  width: 293px;
+  max-width: 100%;
+  height: auto;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 0 auto;
+}
+
+.navLink {
+  font-family: var(--wp--preset--font-family--jost), sans-serif;
+  font-size: 1.0625rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: var(--kw-purple);
+  text-decoration: none;
+  white-space: nowrap;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.navLink:hover {
+  color: #b0b0b0;
+  border-bottom-color: #b0b0b0;
+}
+
+/* Layout-only helpers for the shared <Button> in the header. */
+.navCta {
+  flex-shrink: 0;
+}
+
+/* Mobile menu ------------------------------------------------------------ */
+.menuButton {
+  display: none;
+  margin-left: auto;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border: none;
+  background: transparent;
+  color: var(--kw-purple);
+  cursor: pointer;
+}
+
+.menuButton svg {
+  width: 40px;
+  height: 40px;
+  fill: currentColor;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 99999;
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(400px, 88vw);
+  background: var(--kw-white);
+  box-shadow: -11px 0 60px rgba(2, 2, 2, 0.35);
+  z-index: 100000;
+  padding: 1.25rem 1.5rem;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.drawerClose {
+  align-self: flex-end;
+  border: none;
+  background: transparent;
+  color: var(--kw-purple);
+  cursor: pointer;
+  padding: 0.25rem;
+}
+
+.drawerClose svg {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
+}
+
+.drawer .navLink {
+  display: block;
+  padding: 0.85rem 0;
+  font-size: 1.15rem;
+  border-bottom: 1px solid var(--kw-border);
+}
+
+.drawerCta {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .nav,
+  .navCta {
+    display: none;
+  }
+
+  .menuButton {
+    display: inline-flex;
+  }
+}
