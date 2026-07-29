@@ -18,6 +18,7 @@ type LinkProps = CommonProps & {
 type ButtonProps = CommonProps & {
   href?: undefined;
   type?: "button" | "submit" | "reset";
+  disabled?: boolean;
 };
 
 /**
@@ -42,6 +43,7 @@ export function Button(props: LinkProps | ButtonProps) {
       type={(props as ButtonProps).type ?? "button"}
       className={classes}
       onClick={onClick}
+      disabled={(props as ButtonProps).disabled}
     >
       {children}
     </button>

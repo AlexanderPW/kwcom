@@ -148,11 +148,11 @@ export default function Page() {
             className="pointer-events-none absolute -bottom-32 -left-32 h-80 w-80 rounded-full bg-kw-primary/25 blur-3xl"
           />
           <div className="relative mx-auto flex max-w-3xl flex-col items-center px-4 py-20 text-center md:py-28">
-            <span className="mb-6 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-4 py-1.5 font-accent text-xs font-medium uppercase tracking-[0.2em] text-white/70">
+            <span className="animated animated-fadeInUp mb-6 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-4 py-1.5 font-accent text-xs font-medium uppercase tracking-[0.2em] text-white/70">
               Client Stories
             </span>
             <h1
-              className="font-heading uppercase"
+              className="animated animated-fadeInUp font-heading uppercase"
               style={{
                 color: "#fff",
                 fontWeight: 400,
@@ -165,9 +165,9 @@ export default function Page() {
             </h1>
             <span
               aria-hidden
-              className="mt-6 block h-px w-20 bg-gradient-to-r from-transparent via-kw-pink to-transparent"
+              className="animated animated-fadeInUp mt-6 block h-px w-20 bg-gradient-to-r from-transparent via-kw-pink to-transparent"
             />
-            <p className="mx-auto mt-6 max-w-xl font-accent text-lg leading-relaxed text-white/75">
+            <p className="animated animated-fadeInUp mx-auto mt-6 max-w-xl font-accent text-lg leading-relaxed text-white/75">
               Real clients share what their experience is like working with me
               as a Career and Leadership Coach.
             </p>
