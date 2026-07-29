@@ -87,11 +87,25 @@ export function ContactForm() {
   return (
     <form
       onSubmit={handleSubmit}
-      className="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm sm:p-8"
+      className="relative rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm sm:p-8"
       noValidate
     >
-      {/* Honeypot: hidden from users, bots tend to fill it. */}
-      <div aria-hidden className="absolute -left-[9999px]" tabIndex={-1}>
+      {/* Honeypot: clipped off-screen so it can't force horizontal page scroll. */}
+      <div
+        aria-hidden
+        tabIndex={-1}
+        style={{
+          position: "absolute",
+          width: 1,
+          height: 1,
+          padding: 0,
+          margin: -1,
+          overflow: "hidden",
+          clip: "rect(0, 0, 0, 0)",
+          whiteSpace: "nowrap",
+          border: 0,
+        }}
+      >
         <label>
           Company
           <input
