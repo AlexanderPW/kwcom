@@ -2,6 +2,7 @@
    the global WordPress base rules so no stray borders / shadows leak in. */
 
 .button {
+  box-sizing: border-box;
   display: inline-flex;
   align-items: center;
   justify-content: center;
